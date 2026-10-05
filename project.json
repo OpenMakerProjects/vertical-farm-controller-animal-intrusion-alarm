@@ -1,0 +1,21 @@
+{
+  "id": 178,
+  "title": "Vertical Farm Controller Animal Intrusion Alarm",
+  "repository_slug": "vertical-farm-controller-animal-intrusion-alarm",
+  "category": "Smart Agriculture",
+  "platform": "Arduino Mega",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "water pump",
+    "capacitive soil sensor",
+    "pH sensor"
+  ],
+  "scope": "Build a smart agriculture prototype that uses water pump, capacitive soil sensor, pH sensor to detect and report animal movement. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Animal Intrusion Alarm demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/vertical-farm-controller-animal-intrusion-alarm/vertical-farm-controller-animal-intrusion-alarm.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
